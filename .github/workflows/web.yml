@@ -1,4 +1,4 @@
-name: Move element
+name: Loading and Sorting
 
 on: [push, pull_request]
 
